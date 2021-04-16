@@ -1,0 +1,5 @@
+
+cpython:S930"BAdd 1 missing arguments; 'reverse' expects 2 positional arguments.(œ„¦ùüÿÿÿÿ8»Ò°‘/
+”python:S1192"rDefine a constant instead of duplicating this literal 'ÑƒĞºĞ°Ğ·Ñ‹Ğ²Ğ°Ñ‚ÑŒ ÑÑƒĞ¼Ğ¼Ñƒ Ğ² Ğ´Ğ¾Ğ»Ğ»Ğ°Ñ€Ğ°Ñ…' 3 times.(Ä¥”²úÿÿÿÿ8˜…à/
+npython:S1192"QDefine a constant instead of duplicating this literal "ĞĞ¿Ğ¸ÑĞ°Ğ½Ğ¸Ğµ" 3 times.(í—İş8­£Ó‘/
+Ppython:S930"/Remove this unexpected named argument 'kwargs'.(œ„¦ùüÿÿÿÿ8»Ò°‘/
